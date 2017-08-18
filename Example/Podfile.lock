@@ -1,0 +1,16 @@
+PODS:
+  - AngKeyChain (0.1.0)
+
+DEPENDENCIES:
+  - AngKeyChain (from `../`)
+
+EXTERNAL SOURCES:
+  AngKeyChain:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AngKeyChain: 0db52eea478c3203564aac8208897feace29e589
+
+PODFILE CHECKSUM: af81fc9474151eebd807043adef7d13c58121ac7
+
+COCOAPODS: 1.2.1

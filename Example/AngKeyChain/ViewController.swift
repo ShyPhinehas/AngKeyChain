@@ -7,12 +7,15 @@
 //
 
 import UIKit
+import AngKeyChain
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+    
+        
+        print("uuid = \(AngKeychain.uuid)")
     }
 
     override func didReceiveMemoryWarning() {
