@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AngKeyChain_Example' do
+  pod 'AngKeyChain', :path => '../'
+
+  target 'AngKeyChain_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
